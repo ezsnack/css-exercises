@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.leftbox {
+  color: #ffffff;
+  background-color: #000000;
+}
+.rightbox {
+  background-color: #ffff00;
+}
+.leftbox, .rightbox{
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
